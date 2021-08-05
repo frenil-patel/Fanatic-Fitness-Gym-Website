@@ -32,4 +32,10 @@ nav ul li a:hover {
   background: rgba(255, 255, 255, 0.1);
   color: rgba(0, 35, 122, 0.7);
 }
+.carouselsize{
+  width: 980px;
+  height: 720px;
+  position: relative;
+  left: 150px;
+}
 
