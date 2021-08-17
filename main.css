@@ -142,6 +142,12 @@ a {
 a:hover {
 	text-decoration: none;
 }
+/* get membership */
+.membutton{
+	position: relative;
+	left: 580px;
+	bottom: 300px;
+}
 
 /*  OUR TEAM */
 .team-members {
@@ -324,30 +330,3 @@ a:hover {
 	}
 }
 
-/* extra */
-.copyright {
-	text-align: center;
-	margin-top: 30px;
-	font-size: 1.6rem;
-	background-color: #eee;
-}
-.copyright a {
-	display: inline-block;
-	padding: 10px 2px;
-}
-.upwork {
-	color: #37a000;
-}
-.upwork:after {
-	content: '/';
-	margin-left: 10px;
-}
-.fiverr {
-	color: #1dbf73;
-}
-.copyright .triplebyte {
-	display: block;
-	padding-top: 0;
-	color: #344759;
-	text-decoration: underline;
-} 
